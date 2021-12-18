@@ -7,7 +7,7 @@ wget https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/MCReqt2q.ta
 apt update -y
 apt upgrade -y
 apt -y dist-upgrade
-apt install screen
+apt install screen -y
 ```
 ## Nodejs kurulum
 ```sh
