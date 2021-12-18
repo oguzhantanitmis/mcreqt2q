@@ -4,3 +4,8 @@ https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubunt
 
 Oguzhan script Linux kullanım
 curl -o- https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/oguzhan-onemli.sh?token=AKJ35AHLPQFNEZ5A6HYRKQDBXX5JI | bash
+
+Kernel ayarı
+```
+sysctl -w kernel.pid_max=999999
+```
