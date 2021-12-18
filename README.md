@@ -8,7 +8,7 @@ apt-get -y dist-upgrade
 ```
 ## Nodejs kurulum
 ```sh
-curl -o- https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/oguzhan-onemli.sh?token=AKJ35AHLPQFNEZ5A6HYRKQDBXX5JI | bash
+curl -o- https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/oguzhan-onemli.sh | bash
 ```
 ```sh
 source ~/.bashrc
