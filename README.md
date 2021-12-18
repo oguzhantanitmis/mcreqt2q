@@ -1,11 +1,11 @@
 # mcreqt2q
 ## Nodejs kurulum
-```https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04```
+```curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash```
 
 ## Oguzhan script Linux kullanım
 ```curl -o- https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/oguzhan-onemli.sh?token=AKJ35AHLPQFNEZ5A6HYRKQDBXX5JI | bash```
 
 ## Kernel ayarı
-```
+```bash
 sysctl -w kernel.pid_max=999999
 ```
