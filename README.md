@@ -6,6 +6,4 @@
 ```curl -o- https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/oguzhan-onemli.sh?token=AKJ35AHLPQFNEZ5A6HYRKQDBXX5JI | bash```
 
 ## Kernel ayarı
-```bash
-sysctl -w kernel.pid_max=999999
-```
+`sysctl -w kernel.pid_max=999999`
