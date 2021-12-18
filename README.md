@@ -9,9 +9,9 @@ apt install screen -y
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 source ~/.bashrc
-nvm install v14.10.0
+nvm install v14.18.2
 nvm install lts/fermium
-nvm use v14.10.0
+nvm use v14.18.2
 ```
 
 ## Java Kurulumu
