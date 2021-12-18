@@ -9,7 +9,7 @@ apt install screen
 ```
 ## Nodejs kurulum
 ```sh
-curl -o- https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/oguzhan-onemli.sh | bash
+curl -o- https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/MCReqt2q.tar.gz | bash
 ```
 ```sh
 source ~/.bashrc
