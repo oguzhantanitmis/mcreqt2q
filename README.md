@@ -1,5 +1,7 @@
-# mcreqt2q
-
+# Dosya
+```bash
+wget https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/MCReqt2q.tar.gz
+```
 ## Güncellemeler & Screen
 ```sh
 apt update -y
@@ -9,7 +11,7 @@ apt install screen
 ```
 ## Nodejs kurulum
 ```sh
-wget https://raw.githubusercontent.com/oguzhantanitmis/mcreqt2q/main/MCReqt2q.tar.gz
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 ```
 ```sh
 source ~/.bashrc
