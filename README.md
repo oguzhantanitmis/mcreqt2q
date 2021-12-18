@@ -1,10 +1,11 @@
 # mcreqt2q
 
-## Güncellemeler
+## Güncellemeler & Screen
 ```sh
 apt update -y
 apt upgrade -y
-apt-get -y dist-upgrade
+apt -y dist-upgrade
+apt install screen
 ```
 ## Nodejs kurulum
 ```sh
